@@ -1,0 +1,3 @@
+[default-profile]
+bluez_card.B1_1F_95_5B_B4_11=a2dp-sink-sbc_xq
+bluez_card.08_84_9D_D5_07_BB=a2dp-sink-sbc

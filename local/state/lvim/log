@@ -1,0 +1,342 @@
+INF 2023-04-24T15:44:17.918 lvim.2845358.0 set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+INF 2023-04-24T15:44:17.919 lvim.2845358.0 os_exit:669: Nvim exit: 0
+INF 2023-04-24T15:44:48.448 lvim.2846525.0 set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+DBG 2023-04-24T15:44:48.454 lvim.2846525.0 process_spawn:134: new: pid=2846526 argv=[/usr/bin/git]
+DBG 2023-04-24T15:44:50.952 lvim.2846525.0 read_cb:118: closing Stream (0x7ffcd3797f28): EOF (end of file)
+DBG 2023-04-24T15:44:50.952 lvim.2846525.0 read_cb:118: closing Stream (0x7ffcd3797d88): EOF (end of file)
+INF 2023-04-24T15:44:50.952 lvim.2846525.0 on_process_exit:442: exited: pid=2846526 status=0 stoptime=0
+DBG 2023-04-24T15:44:50.952 lvim.2846525.0 stream_close:109: closing Stream: 0x7ffcd3797d88
+DBG 2023-04-24T15:44:50.952 lvim.2846525.0 stream_close:109: closing Stream: 0x7ffcd3797f28
+DBG 2023-04-24T15:44:50.953 lvim.2846525.0 process_spawn:134: new: pid=2846623 argv=[/usr/bin/git]
+DBG 2023-04-24T15:44:50.963 lvim.2846525.0 read_cb:118: closing Stream (0x7ffcd3797f28): EOF (end of file)
+DBG 2023-04-24T15:44:50.963 lvim.2846525.0 read_cb:118: closing Stream (0x7ffcd3797d88): EOF (end of file)
+INF 2023-04-24T15:44:50.963 lvim.2846525.0 on_process_exit:442: exited: pid=2846623 status=0 stoptime=0
+DBG 2023-04-24T15:44:50.963 lvim.2846525.0 stream_close:109: closing Stream: 0x7ffcd3797d88
+DBG 2023-04-24T15:44:50.963 lvim.2846525.0 stream_close:109: closing Stream: 0x7ffcd3797f28
+INF 2023-04-24T15:45:13.813 lvim.2846525.0 os_exit:669: Nvim exit: 0
+INF 2023-04-24T15:45:13.830 lvim.2849194.0 set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+INF 2023-04-24T15:45:14.120 lvim.2849194.0 os_exit:669: Nvim exit: 0
+DBG 2023-04-24T15:46:42.536 ?.2851437  process_spawn:134: new: pid=2851438 argv=[/usr/bin/nvim]
+DBG 2023-04-24T15:46:42.536 ?.2851437  rpc_start:142: rpc ch 3 in-stream=0x55636edd7f58 out-stream=0x55636edd80f8
+INF 2023-04-24T15:46:42.536 ?.2851437  set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+DBG 2023-04-24T15:46:42.537 ?.2851437  tui_get_stty_erase:2244: stty/termios:erase=
+DBG 2023-04-24T15:46:42.537 ?.2851437  tui_tk_ti_getstr:2261: libtermkey:kbs=
+DBG 2023-04-24T15:46:42.537 ?.2851437  tui_tk_ti_getstr:2266: libtermkey:kdch1=[3~
+DBG 2023-04-24T15:46:42.537 ?.2851437  tui_tk_ti_getstr:2272: libtermkey:kmous=[<
+INF 2023-04-24T15:46:42.537 ?.2851437  patch_terminfo_bugs:1761: Disabling smglr with TERM=xterm for non-xterm.
+INF 2023-04-24T15:46:42.537 ?.2851437  patch_terminfo_bugs:1765: Disabling smglp with TERM=xterm for non-xterm.
+INF 2023-04-24T15:46:42.537 ?.2851437  patch_terminfo_bugs:1769: Disabling smgrp with TERM=xterm for non-xterm.
+DBG 2023-04-24T15:46:42.537 ?.2851437  handle_background_color:638: bg response: dark
+DBG 2023-04-24T15:46:42.537 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_attach", [272, 71, {"rgb"=>true, "ext_linegrid"=>true, "ext_termcolors"=>true, "term_name"=>"xterm-256color", "term_background"=>"dark", "term_colors"=>256, "stdin_tty"=>true, "stdout_tty"=>true}]]
+DBG 2023-04-24T15:46:42.538 ?.2851438  rpc_start:142: rpc ch 1 in-stream=0x558a5a8adb90 out-stream=0x558a5a8ad9f0
+INF 2023-04-24T15:46:42.538 lvim.2851438.0 set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 142 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_attach
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_attach
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 handle_nvim_ui_attach:4256: RPC: ch 1: invoke nvim_ui_attach
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: option_set
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: option_set (+13 times...)
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: option_set
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: option_set (+4 times...)
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.539 lvim.2851438.0 UI: grid_resize
+DBG 2023-04-24T15:46:42.540 lvim.2851438.0 UI: grid_clear
+DBG 2023-04-24T15:46:42.540 lvim.2851438.0 UI: update_menu
+DBG 2023-04-24T15:46:42.600 lvim.2851438.0 UI: update_menu (+10 times...)
+DBG 2023-04-24T15:46:42.600 lvim.2851438.0 UI: option_set
+DBG 2023-04-24T15:46:42.600 ?.2851437  receive_msgpack:296: ch 3: parsing 3864 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.600 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", false]]
+DBG 2023-04-24T15:46:42.601 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-04-24T15:46:42.605 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 54 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:42.605 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-04-24T15:46:42.605 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-04-24T15:46:42.606 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-04-24T15:46:42.606 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-04-24T15:46:42.618 lvim.2851438.0 UI: option_set (+1 times...)
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: hl_group_set
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: hl_group_set (+55 times...)
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: option_set
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: hl_attr_define
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.619 lvim.2851438.0 UI: hl_attr_define
+DBG 2023-04-24T15:46:42.621 lvim.2851438.0 UI: hl_attr_define (+92 times...)
+DBG 2023-04-24T15:46:42.621 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.621 ?.2851437  receive_msgpack:296: ch 3: parsing 3861 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.621 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-04-24T15:46:42.621 lvim.2851438.0 UI: default_colors_set (+1 times...)
+DBG 2023-04-24T15:46:42.621 lvim.2851438.0 UI: option_set
+DBG 2023-04-24T15:46:42.621 lvim.2851438.0 UI: default_colors_set
+DBG 2023-04-24T15:46:42.622 lvim.2851438.0 UI: hl_attr_define
+DBG 2023-04-24T15:46:42.623 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 27 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:42.623 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-04-24T15:46:42.623 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-04-24T15:46:42.643 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_focus", [true]]
+INF 2023-04-24T15:46:42.646 lvim.2851438.0 main:638: starting main loop
+DBG 2023-04-24T15:46:42.646 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 22 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:42.646 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_focus
+DBG 2023-04-24T15:46:42.646 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_set_focus
+DBG 2023-04-24T15:46:42.647 lvim.2851438.0 UI: hl_attr_define (+28 times...)
+DBG 2023-04-24T15:46:42.647 lvim.2851438.0 UI: win_viewport
+DBG 2023-04-24T15:46:42.647 lvim.2851438.0 UI: hl_group_set
+DBG 2023-04-24T15:46:42.647 lvim.2851438.0 UI: hl_group_set (+61 times...)
+DBG 2023-04-24T15:46:42.647 lvim.2851438.0 UI: raw_line
+DBG 2023-04-24T15:46:42.648 ?.2851437  receive_msgpack:296: ch 3: parsing 3888 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.648 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: raw_line (+70 times...)
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: set_icon
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: set_title
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: win_viewport
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: mode_info_set
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: mode_change
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: mouse_on
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 27 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-04-24T15:46:42.649 ?.2851437  receive_msgpack:296: ch 3: parsing 3531 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 state_enter:96: input: K_EVENT
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-04-24T15:46:42.649 lvim.2851438.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-04-24T15:46:42.650 ?.2851437  receive_msgpack:296: ch 3: parsing 46 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.658 lvim.2851438.0 UI: hl_attr_define
+DBG 2023-04-24T15:46:42.671 lvim.2851438.0 handle_nvim_ui_set_focus:4362: RPC: ch 1: invoke nvim_ui_set_focus
+DBG 2023-04-24T15:46:42.671 lvim.2851438.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-04-24T15:46:42.671 lvim.2851438.0 UI: win_viewport
+DBG 2023-04-24T15:46:42.672 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:42.672 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:42.672 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:42.672 ?.2851437  receive_msgpack:296: ch 3: parsing 76 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:42.772 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.488 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_input", [":"]]
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 16 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_input
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 handle_nvim_input:4900: RPC: ch 1: invoke nvim_input
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 state_enter:96: input: <:>
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 UI: flush (+2 times...)
+DBG 2023-04-24T15:46:43.488 lvim.2851438.0 UI: raw_line
+DBG 2023-04-24T15:46:43.508 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:43.508 lvim.2851438.0 UI: mode_change
+DBG 2023-04-24T15:46:43.508 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:43.508 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.508 lvim.2851438.0 state_enter:96: input: K_EVENT
+DBG 2023-04-24T15:46:43.508 ?.2851437  receive_msgpack:296: ch 3: parsing 102 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:43.513 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.513 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.613 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.616 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_input", ["q"]]
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 16 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_input
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 handle_nvim_input:4900: RPC: ch 1: invoke nvim_input
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 state_enter:96: input: <q>
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 UI: flush (+3 times...)
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 UI: raw_line
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.616 lvim.2851438.0 state_enter:96: input: K_EVENT
+DBG 2023-04-24T15:46:43.616 ?.2851437  receive_msgpack:296: ch 3: parsing 70 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:43.617 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.617 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.618 lvim.2851438.0 state_enter:96: input: K_EVENT
+DBG 2023-04-24T15:46:43.618 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.618 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.642 lvim.2851438.0 state_enter:96: input: K_EVENT
+DBG 2023-04-24T15:46:43.643 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-04-24T15:46:43.643 lvim.2851438.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-04-24T15:46:43.691 ?.2851437  log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_input", ["<Enter>"]]
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 receive_msgpack:296: ch 1: parsing 22 bytes from msgpack Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_input
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 handle_nvim_input:4900: RPC: ch 1: invoke nvim_input
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 state_enter:96: input: <CR>
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 UI: flush (+8 times...)
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:43.691 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:43.691 ?.2851437  receive_msgpack:296: ch 3: parsing 46 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 UI: grid_cursor_goto
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 UI: mode_change
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 UI: flush
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 UI: stop
+DBG 2023-04-24T15:46:43.692 ?.2851437  receive_msgpack:296: ch 3: parsing 70 bytes from msgpack Stream: 0x55636edd80f8
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 stream_close:109: closing Stream: 0x558a5a8ad9f0
+DBG 2023-04-24T15:46:43.692 lvim.2851438.0 stream_close:109: closing Stream: 0x558a5a8adb90
+DBG 2023-04-24T15:46:43.692 ?.2851437  read_cb:118: closing Stream (0x55636edd80f8): EOF (end of file)
+DBG 2023-04-24T15:46:43.692 ?.2851437  stream_close:109: closing Stream: 0x55636edd7f58
+DBG 2023-04-24T15:46:43.692 ?.2851437  stream_close:109: closing Stream: 0x55636edd80f8
+INF 2023-04-24T15:46:43.692 ?.2851437  chan_close_with_error:646: RPC: ch 3 was closed by the client
+INF 2023-04-24T15:46:43.693 lvim.2851438.0 os_exit:669: Nvim exit: 0
+INF 2023-04-24T15:46:43.695 ?.2851437  on_process_exit:442: exited: pid=2851438 status=0 stoptime=0
+DBG 2023-04-24T15:46:43.695 ?.2851437  stream_close:109: closing Stream: 0x55636ee1f350
+INF 2023-04-24T15:46:43.695 ?.2851437  os_exit:669: Nvim exit: 0
+DBG 2023-05-14T10:38:16.535 ?.115450   process_spawn:134: new: pid=115451 argv=[/usr/bin/nvim]
+DBG 2023-05-14T10:38:16.535 ?.115450   rpc_start:142: rpc ch 3 in-stream=0x560b849dff78 out-stream=0x560b849e0118
+INF 2023-05-14T10:38:16.535 ?.115450   set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+DBG 2023-05-14T10:38:16.535 ?.115450   tui_get_stty_erase:2244: stty/termios:erase=
+DBG 2023-05-14T10:38:16.536 ?.115450   tui_tk_ti_getstr:2261: libtermkey:kbs=
+DBG 2023-05-14T10:38:16.536 ?.115450   tui_tk_ti_getstr:2266: libtermkey:kdch1=[3~
+DBG 2023-05-14T10:38:16.536 ?.115450   tui_tk_ti_getstr:2272: libtermkey:kmous=[<
+INF 2023-05-14T10:38:16.536 ?.115450   patch_terminfo_bugs:1761: Disabling smglr with TERM=xterm for non-xterm.
+INF 2023-05-14T10:38:16.536 ?.115450   patch_terminfo_bugs:1765: Disabling smglp with TERM=xterm for non-xterm.
+INF 2023-05-14T10:38:16.536 ?.115450   patch_terminfo_bugs:1769: Disabling smgrp with TERM=xterm for non-xterm.
+DBG 2023-05-14T10:38:16.537 ?.115451   rpc_start:142: rpc ch 1 in-stream=0x561a0b326c30 out-stream=0x561a0b326a90
+INF 2023-05-14T10:38:16.537 lvim.115451.0 set_init_2:589: startup runtimepath/packpath value: /home/lucky/.config/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/etc/xdg/xdg-kali-purple/lvim,/etc/xdg/lvim,/home/lucky/.local/share/lvim/site,/usr/share/gnome/lvim/site,/usr/local/share/lvim/site,/usr/share/lvim/site,/usr/share/nvim/runtime,/usr/lib/x86_64-linux-gnu/nvim,/usr/share/lvim/site/after,/usr/local/share/lvim/site/after,/usr/share/gnome/lvim/site/after,/home/lucky/.local/share/lvim/site/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/etc/xdg/lvim/after,/etc/xdg/xdg-kali-purple/lvim/after,/home/lucky/.config/lvim/after
+DBG 2023-05-14T10:38:16.537 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_attach", [80, 24, {"rgb"=>true, "ext_linegrid"=>true, "ext_termcolors"=>true, "term_name"=>"xterm-256color", "term_colors"=>256, "stdin_tty"=>true, "stdout_tty"=>true}]]
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 receive_msgpack:296: ch 1: parsing 119 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_attach
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_attach
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 handle_nvim_ui_attach:4256: RPC: ch 1: invoke nvim_ui_attach
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: option_set (+13 times...)
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: option_set (+4 times...)
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: grid_resize
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: grid_clear
+DBG 2023-05-14T10:38:16.537 lvim.115451.0 UI: update_menu
+DBG 2023-05-14T10:38:16.556 ?.115450   handle_background_color:638: bg response: dark
+DBG 2023-05-14T10:38:16.556 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["term_background", "dark"]]
+DBG 2023-05-14T10:38:16.579 lvim.115451.0 receive_msgpack:296: ch 1: parsing 43 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.579 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-05-14T10:38:16.579 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-05-14T10:38:16.627 lvim.115451.0 UI: update_menu (+10 times...)
+DBG 2023-05-14T10:38:16.627 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.628 ?.115450   receive_msgpack:296: ch 3: parsing 3869 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.628 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", false]]
+DBG 2023-05-14T10:38:16.633 lvim.115451.0 receive_msgpack:296: ch 1: parsing 27 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.633 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-05-14T10:38:16.633 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-05-14T10:38:16.643 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_focus", [false]]
+DBG 2023-05-14T10:38:16.645 lvim.115451.0 receive_msgpack:296: ch 1: parsing 22 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.645 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_focus
+DBG 2023-05-14T10:38:16.645 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_focus
+DBG 2023-05-14T10:38:16.650 lvim.115451.0 UI: option_set (+1 times...)
+DBG 2023-05-14T10:38:16.650 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: hl_group_set
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: hl_group_set (+55 times...)
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.651 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: hl_attr_define (+92 times...)
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.653 ?.115450   receive_msgpack:296: ch 3: parsing 3854 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.653 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-05-14T10:38:16.653 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: default_colors_set (+1 times...)
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: default_colors_set
+DBG 2023-05-14T10:38:16.653 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.656 lvim.115451.0 receive_msgpack:296: ch 1: parsing 54 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.656 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-05-14T10:38:16.656 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-05-14T10:38:16.656 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-05-14T10:38:16.656 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-05-14T10:38:16.684 lvim.115451.0 UI: hl_attr_define (+10 times...)
+DBG 2023-05-14T10:38:16.684 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.689 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.691 lvim.115451.0 UI: hl_attr_define (+40 times...)
+DBG 2023-05-14T10:38:16.691 lvim.115451.0 UI: option_set
+DBG 2023-05-14T10:38:16.726 lvim.115451.0 UI: hl_attr_define
+INF 2023-05-14T10:38:16.765 lvim.115451.0 main:638: starting main loop
+DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: hl_attr_define (+21 times...)
+DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: win_viewport
+DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: hl_group_set
+DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: hl_group_set (+61 times...)
+DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.765 ?.115450   receive_msgpack:296: ch 3: parsing 3856 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.765 ?.115450   log_server_msg:71: RPC ->ch 3: DBG 2023-05-14T10:38:16.765 lvim.115451.0 UI: raw_line
+[notify]   [2, "nvim_ui_set_option", ["rgb", true]]
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: raw_line (+23 times...)
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: set_icon
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: set_title
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: win_viewport
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: grid_cursor_goto
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: mode_info_set
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: mode_change
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: mouse_on
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: flush
+DBG 2023-05-14T10:38:16.766 ?.115450   receive_msgpack:296: ch 3: parsing 4082 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 receive_msgpack:296: ch 1: parsing 27 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_option
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_option
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: win_viewport
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: grid_cursor_goto
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 UI: flush
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:16.766 ?.115450   receive_msgpack:296: ch 3: parsing 76 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_nvim_ui_set_focus:4362: RPC: ch 1: invoke nvim_ui_set_focus
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-05-14T10:38:16.766 lvim.115451.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-05-14T10:38:16.773 lvim.115451.0 UI: hl_attr_define
+DBG 2023-05-14T10:38:16.802 lvim.115451.0 handle_nvim_ui_set_option:4463: RPC: ch 1: invoke nvim_ui_set_option
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 UI: hl_attr_define (+4 times...)
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 UI: raw_line
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 UI: win_viewport
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 UI: flush
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:16.804 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:16.804 ?.115450   receive_msgpack:296: ch 3: parsing 279 bytes from msgpack Stream: 0x560b849e0118
+DBG 2023-05-14T10:38:16.805 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:16.806 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:16.806 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:16.882 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:16.883 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:16.883 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:16.907 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:16.907 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:16.907 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:17.007 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:17.763 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:17.764 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:17.764 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:17.865 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:18.618 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_focus", [true]]
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 receive_msgpack:296: ch 1: parsing 22 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_focus
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_focus
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 handle_nvim_ui_set_focus:4362: RPC: ch 1: invoke nvim_ui_set_focus
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:18.618 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:18.718 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:18.764 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:18.764 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:18.764 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:18.865 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:19.764 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:19.766 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:19.766 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:19.866 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+DBG 2023-05-14T10:38:20.268 ?.115450   log_server_msg:71: RPC ->ch 3: [notify]   [2, "nvim_ui_set_focus", [false]]
+DBG 2023-05-14T10:38:20.268 lvim.115451.0 receive_msgpack:296: ch 1: parsing 22 bytes from msgpack Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:20.268 lvim.115451.0 log_client_msg:101: RPC <-ch 1: [response] : nvim_ui_set_focus
+DBG 2023-05-14T10:38:20.269 lvim.115451.0 handle_request:406: RPC: scheduled nvim_ui_set_focus
+DBG 2023-05-14T10:38:20.269 lvim.115451.0 state_enter:96: input: K_EVENT
+DBG 2023-05-14T10:38:20.269 lvim.115451.0 handle_nvim_ui_set_focus:4362: RPC: ch 1: invoke nvim_ui_set_focus
+DBG 2023-05-14T10:38:20.269 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=0 events_pending=0
+DBG 2023-05-14T10:38:20.269 lvim.115451.0 inbuf_poll:457: blocking... events_enabled=1 events_pending=0
+INF 2023-05-14T10:38:20.271 ?.115450   deadly_signal:173: got signal 1 (SIGHUP)
+DBG 2023-05-14T10:38:20.272 ?.115450   stream_close:109: closing Stream: 0x560b84a27380
+DBG 2023-05-14T10:38:20.272 ?.115450   stream_close:109: closing Stream: 0x560b849dff78
+DBG 2023-05-14T10:38:20.272 ?.115450   stream_close:109: closing Stream: 0x560b849e0118
+INF 2023-05-14T10:38:20.272 ?.115450   os_proc_tree_kill:100: sending SIGTERM to PID -115451
+DBG 2023-05-14T10:38:20.272 lvim.115451.0 read_cb:118: closing Stream (0x561a0b326a90): EOF (end of file)
+DBG 2023-05-14T10:38:20.272 lvim.115451.0 stream_close:109: closing Stream: 0x561a0b326a90
+DBG 2023-05-14T10:38:20.272 lvim.115451.0 stream_close:109: closing Stream: 0x561a0b326c30
+INF 2023-05-14T10:38:20.272 lvim.115451.0 chan_close_with_error:646: RPC: ch 1 was closed by the client
+INF 2023-05-14T10:38:20.278 lvim.115451.0 os_exit:669: Nvim exit: 1
+INF 2023-05-14T10:38:20.280 ?.115450   on_process_exit:442: exited: pid=115451 status=1 stoptime=12955523735336
+INF 2023-05-14T10:38:20.280 ?.115450   os_exit:669: Nvim exit: 1

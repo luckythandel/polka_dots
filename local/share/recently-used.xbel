@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lucky/Downloads/google-chrome-stable_current_amd64.deb" added="2023-04-23T11:36:42.951963Z" modified="2023-04-23T11:36:42.951971Z" visited="2023-04-23T11:36:42.951964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-04-23T11:36:42.951968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Hermit.zip" added="2023-04-23T11:48:37.511970Z" modified="2023-04-23T11:48:37.511974Z" visited="2023-04-23T11:48:37.511971Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-04-23T11:48:37.511972Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads" added="2023-04-23T11:51:38.907691Z" modified="2023-05-13T15:28:05.362043Z" visited="2023-04-23T11:51:38.907691Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T15:28:05.362041Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Hurmit" added="2023-04-23T11:51:41.190288Z" modified="2023-04-23T11:52:01.554691Z" visited="2023-04-23T11:51:41.190289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-23T11:52:01.554687Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Inconsolata.zip" added="2023-04-23T11:54:46.844481Z" modified="2023-04-23T11:54:46.844499Z" visited="2023-04-23T11:54:46.844483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-04-23T11:54:46.844492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/updated-resume.pdf" added="2023-04-23T13:11:13.824000Z" modified="2023-05-13T12:43:46.473926Z" visited="2023-04-23T13:11:13.824002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-13T12:43:46.473925Z" count="106"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2023-05-13T10:07:53.549414Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/29-4-23%20confirm%20list%20final.xlsx" added="2023-04-24T13:46:19.697976Z" modified="2023-04-25T15:54:29.457075Z" visited="2023-04-24T13:46:19.697977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-25T15:54:29.457074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/2.png" added="2023-04-24T15:12:28.741257Z" modified="2023-04-24T15:16:35.870199Z" visited="2023-04-24T15:12:28.741258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:12:28.741259Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:16:35.870198Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/2%20(1).png" added="2023-04-24T15:17:27.690306Z" modified="2023-04-24T15:24:20.644318Z" visited="2023-04-24T15:17:27.690306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:20.644316Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772613Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/1%20(1).png" added="2023-04-24T15:24:12.763904Z" modified="2023-04-24T15:24:29.881513Z" visited="2023-04-24T15:24:12.763905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772588Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-24T15:24:17.864152Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:29.881512Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/3%20(1).png" added="2023-04-24T15:24:12.763918Z" modified="2023-04-24T15:24:21.612072Z" visited="2023-04-24T15:24:12.763918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772619Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:21.612070Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/4%20(1).png" added="2023-04-24T15:24:12.763921Z" modified="2023-04-24T15:24:23.066798Z" visited="2023-04-24T15:24:12.763921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772659Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:23.066796Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/5%20(1).png" added="2023-04-24T15:24:12.763924Z" modified="2023-04-24T15:24:24.571399Z" visited="2023-04-24T15:24:12.763925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772664Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:24.571398Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/6%20(1).png" added="2023-04-24T15:24:12.763928Z" modified="2023-04-24T15:24:25.436197Z" visited="2023-04-24T15:24:12.763928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772669Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:25.436196Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/7%20(1).png" added="2023-04-24T15:24:12.763931Z" modified="2023-04-24T15:24:26.289119Z" visited="2023-04-24T15:24:12.763931Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772644Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:26.289117Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/8%20(1).png" added="2023-04-24T15:24:12.763935Z" modified="2023-04-24T15:24:27.099892Z" visited="2023-04-24T15:24:12.763936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772654Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:27.099891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/9%20(1).png" added="2023-04-24T15:24:12.763939Z" modified="2023-04-24T15:24:27.826300Z" visited="2023-04-24T15:24:12.763939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-24T15:24:12.772649Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-24T15:24:27.826298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-ii/csf/Lab%20Manual.docx" added="2023-04-24T16:27:47.675464Z" modified="2023-04-24T16:27:48.181228Z" visited="2023-04-24T16:27:47.675465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-04-24T16:27:47.675466Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-24T16:27:48.181227Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/DAALABMANUAL_PriyankaSingh_201530021.pdf" added="2023-04-24T16:58:16.324264Z" modified="2023-04-28T04:17:46.707704Z" visited="2023-04-24T16:58:16.324265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-04-28T04:17:46.263764Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-04-28T04:17:46.707702Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-28T04:16:53.157036Z" count="4"/>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-28T04:16:03.521165Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/malicious.exe" added="2023-04-25T04:50:44.458384Z" modified="2023-04-25T04:50:44.471794Z" visited="2023-04-25T04:50:44.458384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-25T04:50:44.471793Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/VritualMachines/win-10/Windows%2010/Windows%2010.vbox" added="2023-04-25T05:23:10.313696Z" modified="2023-04-28T05:43:01.213819Z" visited="2023-04-25T05:23:10.313697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-04-28T05:43:01.213817Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/VritualMachines/Windows/Windows_Box/Windows_Box.vbox" added="2023-04-25T05:23:26.384190Z" modified="2023-04-25T05:23:26.384194Z" visited="2023-04-25T05:23:26.384190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-04-25T05:23:26.384192Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/WhatsApp%20Image%202023-02-23%20at%207.31.23%20PM.jpeg" added="2023-04-25T13:20:13.705927Z" modified="2023-04-25T13:20:14.091115Z" visited="2023-04-25T13:20:13.705928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-04-25T13:20:13.705929Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-25T13:20:14.091114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Minimum%20Spanning%20Tree%20and%20Kruskal&apos;s%20Algorithm.pdf" added="2023-04-25T13:20:34.404001Z" modified="2023-05-06T07:46:06.506777Z" visited="2023-04-25T13:20:34.404002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T07:46:06.506776Z" count="10"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-02T07:27:34.251838Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T07:46:06.109674Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Prim&apos;s%20Algorithm.pdf" added="2023-04-25T13:45:11.267570Z" modified="2023-05-06T08:10:04.134856Z" visited="2023-04-25T13:45:11.267571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-02T07:32:43.435973Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T08:10:04.134855Z" count="13"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T08:10:03.754634Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230324_143042258857.pdf" added="2023-04-25T16:23:20.485384Z" modified="2023-05-06T07:42:00.254022Z" visited="2023-04-25T16:23:20.485385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T07:42:00.254020Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T09:47:21.947473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230104_142420744867.pdf" added="2023-04-25T16:23:31.623933Z" modified="2023-05-06T03:02:09.813865Z" visited="2023-04-25T16:23:31.623933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:02:09.813863Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-01T02:05:24.085914Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:02:09.429953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230324_142727626589.pdf" added="2023-04-25T16:24:17.425143Z" modified="2023-05-06T04:42:47.682079Z" visited="2023-04-25T16:24:17.425143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T04:42:47.682078Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:54:51.589331Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/constitutional-law-mcq%20(1).pdf" added="2023-04-26T06:08:05.261782Z" modified="2023-04-26T06:08:05.261787Z" visited="2023-04-26T06:08:05.261783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-04-26T06:08:05.261785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Mini%20or%20Major%20Project%20Report%20Main%20Format(1).docx" added="2023-04-26T06:25:41.440977Z" modified="2023-04-26T06:25:41.440982Z" visited="2023-04-26T06:25:41.440978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-26T06:25:41.440980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/%5Bwww.Movieliv.cc%5D-The%20Tutor%202023%20English%20ORG%20720p%20HDRip%20x264%20ESubs.mkv" added="2023-04-26T06:59:31.841498Z" modified="2023-04-26T08:42:39.136722Z" visited="2023-04-26T06:59:31.841498Z">
+    <title>[www.Movieliv.cc]-The Tutor 2023 English ORG 720p HDRip x264 ESubs.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-04-26T08:41:52.790496Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-04-26T08:42:39.136721Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230221_125338926211.pdf" added="2023-04-26T13:09:34.288325Z" modified="2023-05-06T07:51:59.253126Z" visited="2023-04-26T13:09:34.288325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T07:51:59.253125Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T15:06:11.683134Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230331_104751055219.pdf" added="2023-04-26T13:09:37.690695Z" modified="2023-05-05T17:21:13.256250Z" visited="2023-04-26T13:09:37.690696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-05T17:21:13.256249Z" count="5"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T12:52:24.454796Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-26%2021-25-44.png" added="2023-04-26T15:55:44.514858Z" modified="2023-04-26T15:55:44.514862Z" visited="2023-04-26T15:55:44.514859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-26T15:55:44.514861Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-26%2021-25-48.png" added="2023-04-26T15:55:48.674909Z" modified="2023-04-26T15:55:48.674913Z" visited="2023-04-26T15:55:48.674910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-26T15:55:48.674912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-26%2021-25-59.png" added="2023-04-26T15:55:59.593220Z" modified="2023-04-26T15:56:01.535189Z" visited="2023-04-26T15:55:59.593221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-26T15:55:59.593223Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-04-26T15:56:01.535188Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f" added="2023-04-27T05:28:53.455262Z" modified="2023-04-27T05:28:53.455266Z" visited="2023-04-27T05:28:53.455263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-27T05:28:53.455264Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-27%2016-02-43.png" added="2023-04-27T10:32:43.958360Z" modified="2023-04-27T10:32:43.958363Z" visited="2023-04-27T10:32:43.958360Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-27T10:32:43.958361Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/DAALABMANUAL_PriyankaSingh_201530021.docx" added="2023-04-27T15:08:04.150854Z" modified="2023-04-28T04:20:02.792587Z" visited="2023-04-27T15:08:04.150855Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-28T04:20:02.792585Z" count="10"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/wps %F&apos;" modified="2023-04-28T04:17:05.964918Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Adobe%20Scan%2024-Apr-2023.pdf" added="2023-04-27T16:51:53.546628Z" modified="2023-04-27T16:52:27.328306Z" visited="2023-04-27T16:51:53.546629Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:51:53.546630Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-04-27T16:52:26.930674Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-04-27T16:52:27.328304Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/EMAIL%20FORENSICSReport.docx" added="2023-04-27T16:57:16.609124Z" modified="2023-04-27T17:01:18.381921Z" visited="2023-04-27T16:57:16.609124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:16.609126Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/wps %F&apos;" modified="2023-04-27T16:58:22.368068Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:01:18.381919Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/USB_Forensics.pdf" added="2023-04-27T16:57:21.268882Z" modified="2023-04-27T17:04:39.019782Z" visited="2023-04-27T16:57:21.268883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:21.268885Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:04:39.019780Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Memory%20Forensics%20for%20Incident%20Response-1.pdf" added="2023-04-27T16:57:25.462998Z" modified="2023-04-27T17:04:27.606868Z" visited="2023-04-27T16:57:25.462999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:25.463000Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:04:27.606867Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/FTK_ImageProcessing.pdf" added="2023-04-27T16:57:30.106449Z" modified="2023-04-27T17:04:14.558071Z" visited="2023-04-27T16:57:30.106450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:30.106451Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:04:14.558070Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Browser_Artifcats.pdf" added="2023-04-27T16:57:35.307842Z" modified="2023-04-27T16:57:35.307845Z" visited="2023-04-27T16:57:35.307842Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:35.307843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/HidingFile_comandPrompt.pdf" added="2023-04-27T16:57:39.517421Z" modified="2023-04-27T16:57:39.517425Z" visited="2023-04-27T16:57:39.517422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:39.517423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Encase_Forensics.pdf" added="2023-04-27T16:57:44.733384Z" modified="2023-04-27T17:04:04.930766Z" visited="2023-04-27T16:57:44.733385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-04-27T16:57:44.733386Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:04:04.930765Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/EMAIL%20FORENSICSReport.pdf" added="2023-04-27T17:01:48.326100Z" modified="2023-04-27T17:01:48.336607Z" visited="2023-04-27T17:01:48.326100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-04-27T17:01:48.336606Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Ant.Man.and.the.Wasp.2018.IMAX.1080p.DSNP.WEB-DL.DDPA5.1.H.264-MZABI.mkv.crdownload" added="2023-04-27T17:08:54.732632Z" modified="2023-04-27T17:08:54.732640Z" visited="2023-04-27T17:08:54.732633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-04-27T17:08:54.732638Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/win-10/Windows%2010/Windows%2010.vbox" added="2023-04-28T05:55:44.441414Z" modified="2023-04-28T05:55:44.441419Z" visited="2023-04-28T05:55:44.441415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-04-28T05:55:44.441416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-28%2020-19-14.png" added="2023-04-28T14:49:14.120766Z" modified="2023-04-28T14:49:14.120769Z" visited="2023-04-28T14:49:14.120766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-28T14:49:14.120768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-28%2020-19-31.png" added="2023-04-28T14:49:31.813718Z" modified="2023-04-28T14:49:31.813721Z" visited="2023-04-28T14:49:31.813718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-28T14:49:31.813719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-28%2022-44-34.png" added="2023-04-28T17:14:34.593537Z" modified="2023-04-28T17:14:34.593561Z" visited="2023-04-28T17:14:34.593538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-28T17:14:34.593559Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-04-28%2022-44-47.png" added="2023-04-28T17:14:47.999486Z" modified="2023-04-28T17:14:47.999490Z" visited="2023-04-28T17:14:47.999487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-28T17:14:47.999489Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/The%20Sadness%20(2021).mp4" added="2023-04-29T05:46:19.598537Z" modified="2023-04-29T05:46:19.598541Z" visited="2023-04-29T05:46:19.598538Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-04-29T05:46:19.598539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/The-Sadness_2021_English-ELSUBTITLE.COM-ST_66201954.srt" added="2023-04-29T05:46:39.913748Z" modified="2023-04-29T05:46:39.913751Z" visited="2023-04-29T05:46:39.913748Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-subrip"/>
+        <bookmark:applications>
+          <bookmark:application name="vlc" exec="&apos;vlc %u&apos;" modified="2023-04-29T05:46:39.913750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/cacert.der" added="2023-04-29T10:47:02.469439Z" modified="2023-04-29T10:47:11.029197Z" visited="2023-04-29T10:47:02.469440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-x509-ca-cert"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-04-29T10:47:11.029195Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/Vids/Ant.Man.and.the.Wasp.Quantumania.2023.1080p.x264.English.Msubs.MoviesMod.org.mkv" added="2023-04-29T18:06:00.835248Z" modified="2023-05-01T12:29:05.697663Z" visited="2023-04-29T18:06:00.835249Z">
+    <title>Ant.Man.and.the.Wasp.Quantumania.2023.1080p.x264.English.Msubs.MoviesMod.org.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-05-01T12:29:05.697661Z" count="4"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-04-30T17:08:24.217665Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/bubble/Bubble.java" added="2023-05-01T02:25:16.604995Z" modified="2023-05-01T02:26:38.510602Z" visited="2023-05-01T02:25:16.604995Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 7:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2023-05-01T02:25:16.605000Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-01T02:26:38.510600Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-01%2021-38-57.png" added="2023-05-01T16:08:57.444816Z" modified="2023-05-01T16:08:57.444819Z" visited="2023-05-01T16:08:57.444816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-01T16:08:57.444818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-01%2021-39-24.png" added="2023-05-01T16:09:24.321264Z" modified="2023-05-01T16:09:37.730206Z" visited="2023-05-01T16:09:24.321265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-01T16:09:24.321266Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-01T16:09:37.730204Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/balenaEtcher-1.5.115-x64.AppImage" added="2023-05-01T16:40:26.812890Z" modified="2023-05-01T16:40:26.812915Z" visited="2023-05-01T16:40:26.812891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-01T16:40:26.812914Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/ISOs/kali-linux-2021-2-installer-amd64-iso/kali-linux-2021.2-installer-amd64.iso" added="2023-05-01T16:40:40.036177Z" modified="2023-05-01T16:40:56.850959Z" visited="2023-05-01T16:40:40.036178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="balena-etcher-electron.bin" exec="&apos;balena-etcher-electron.bin %u&apos;" modified="2023-05-01T16:40:56.850958Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/syllabus%20CSE.pdf" added="2023-05-02T07:09:59.583403Z" modified="2023-05-05T07:37:22.668626Z" visited="2023-05-02T07:09:59.583403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-02T07:09:59.583405Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-05T07:37:22.668625Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T07:37:22.156846Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230404_103420792709.pdf" added="2023-05-02T08:35:56.488832Z" modified="2023-05-06T06:00:00.738865Z" visited="2023-05-02T08:35:56.488832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-02T08:35:56.488834Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T06:00:00.738863Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:21:17.073017Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230324_142921837846.pdf" added="2023-05-03T05:40:09.836544Z" modified="2023-05-06T07:46:03.281243Z" visited="2023-05-03T05:40:09.836545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2023-05-03T05:40:09.836547Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T07:46:03.281241Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T07:46:02.880571Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/Salo%CC%81,_o_los_120_di%CC%81as_de_Sodoma_1.mp4" added="2023-05-03T09:10:57.360820Z" modified="2023-05-03T09:11:16.308650Z" visited="2023-05-03T09:10:57.360821Z">
+    <title>Saló,_o_los_120_días_de_Sodoma_1.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-05-03T09:11:16.308646Z" count="2"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-03T09:10:58.020389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-05-04T02:12:40.791435Z" modified="2023-05-13T15:19:05.014359Z" visited="2023-05-04T02:12:40.791436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T15:19:05.014358Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA" added="2023-05-04T02:12:46.331133Z" modified="2023-05-12T12:00:55.395316Z" visited="2023-05-04T02:12:46.331134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:00:55.395315Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI" added="2023-05-04T02:12:49.108010Z" modified="2023-05-07T15:29:51.584586Z" visited="2023-05-04T02:12:49.108010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T15:29:51.584584Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA" added="2023-05-04T02:12:52.367697Z" modified="2023-05-07T15:29:53.225690Z" visited="2023-05-04T02:12:52.367698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T15:29:53.225689Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/assignment_daa_sarthak.pdf" added="2023-05-04T02:12:55.246149Z" modified="2023-05-04T02:12:55.702045Z" visited="2023-05-04T02:12:55.246149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T02:12:55.246151Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-04T02:12:55.702043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230111_095033397615.pdf" added="2023-05-04T02:15:26.995514Z" modified="2023-05-06T03:02:20.473225Z" visited="2023-05-04T02:15:26.995514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:02:20.088493Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:02:20.473223Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230116_110121164330.pdf" added="2023-05-04T02:19:43.212830Z" modified="2023-05-06T03:02:28.303485Z" visited="2023-05-04T02:19:43.212831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:02:27.880696Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:02:28.303484Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230214_110006059542.pdf" added="2023-05-04T02:19:55.136236Z" modified="2023-05-06T03:25:28.662924Z" visited="2023-05-04T02:19:55.136237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:25:28.278719Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:25:28.662923Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230215_121423428882.pdf" added="2023-05-04T03:05:12.208107Z" modified="2023-05-06T03:25:56.153188Z" visited="2023-05-04T03:05:12.208108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:25:55.761707Z" count="4"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:25:56.153186Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Kaagaz_20230215_121527178495.pdf" added="2023-05-04T03:35:36.173577Z" modified="2023-05-06T03:47:00.756542Z" visited="2023-05-04T03:35:36.173577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T03:47:00.381348Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T03:47:00.756541Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/cyberdefenders/nintendohunt/volatility/dump_mal/executable.8560.exe" added="2023-05-04T04:27:04.639408Z" modified="2023-05-04T04:27:28.691975Z" visited="2023-05-04T04:27:04.639409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-04T04:27:28.691973Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-04%2014-52-23.png" added="2023-05-04T09:22:23.053098Z" modified="2023-05-04T09:22:43.996311Z" visited="2023-05-04T09:22:23.053098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-04T09:22:23.053100Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-05-04T09:22:25.859607Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-04T09:22:43.996309Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/CyberSecurity" added="2023-05-04T13:58:16.212809Z" modified="2023-05-04T13:58:16.212824Z" visited="2023-05-04T13:58:16.212810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T13:58:16.212816Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA" added="2023-05-04T13:58:21.274969Z" modified="2023-05-04T13:58:21.274972Z" visited="2023-05-04T13:58:21.274969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T13:58:21.274970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting" added="2023-05-04T13:58:26.421099Z" modified="2023-05-04T13:58:26.421103Z" visited="2023-05-04T13:58:26.421100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T13:58:26.421101Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/bubble" added="2023-05-04T14:00:23.373230Z" modified="2023-05-04T14:00:23.373232Z" visited="2023-05-04T14:00:23.373230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T14:00:23.373231Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/heap" added="2023-05-04T14:00:28.265428Z" modified="2023-05-04T14:08:17.011005Z" visited="2023-05-04T14:00:28.265428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T14:08:17.011004Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/sorting.zip" added="2023-05-04T14:00:57.812896Z" modified="2023-05-04T14:00:57.812904Z" visited="2023-05-04T14:00:57.812897Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-05-04T14:00:57.812901Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky" added="2023-05-04T14:01:02.929633Z" modified="2023-05-13T15:19:06.304986Z" visited="2023-05-04T14:01:02.929634Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T15:19:06.304985Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-04%2019-34-08.png" added="2023-05-04T14:04:08.141308Z" modified="2023-05-04T14:06:17.992050Z" visited="2023-05-04T14:04:08.141309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-04T14:04:08.141311Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-04T14:06:17.992049Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/heap/Main.java" added="2023-05-04T14:08:17.975963Z" modified="2023-05-04T14:08:17.975966Z" visited="2023-05-04T14:08:17.975963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T14:08:17.975965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/insetrion" added="2023-05-04T14:09:02.056075Z" modified="2023-05-04T14:09:02.056078Z" visited="2023-05-04T14:09:02.056076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T14:09:02.056077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/DSA/sorting/insetrion/Main.java" added="2023-05-04T14:09:06.400493Z" modified="2023-05-04T15:03:13.051306Z" visited="2023-05-04T14:09:06.400494Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 8:32;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-04T15:03:13.051305Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Desktop" added="2023-05-04T14:27:35.206239Z" modified="2023-05-13T05:47:00.713659Z" visited="2023-05-04T14:27:35.206239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T05:47:00.713658Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/ISOs/manjaro-xfce-21.2.6-minimal-220416-linux515.iso" added="2023-05-04T15:34:39.835185Z" modified="2023-05-04T15:34:39.835190Z" visited="2023-05-04T15:34:39.835186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBoxVM" exec="&apos;VirtualBoxVM %u&apos;" modified="2023-05-04T15:34:39.835187Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/BacktrackingPPT.pptx" added="2023-05-05T07:42:56.512983Z" modified="2023-05-05T07:42:56.512987Z" visited="2023-05-05T07:42:56.512983Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-05T07:42:56.512985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Branch%20and%20Bound.pptx" added="2023-05-05T07:43:00.670581Z" modified="2023-05-05T07:43:00.670585Z" visited="2023-05-05T07:43:00.670582Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-05T07:43:00.670583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/BacktrackingPPT.pptx" added="2023-05-05T07:43:33.869030Z" modified="2023-05-06T05:29:55.617174Z" visited="2023-05-05T07:43:33.869032Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T05:29:55.617172Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/Branch%20and%20Bound.pptx" added="2023-05-05T08:40:18.395597Z" modified="2023-05-06T06:41:19.818570Z" visited="2023-05-05T08:40:18.395598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T06:41:19.818568Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/DAA/red%20black%20tree.pdf" added="2023-05-06T06:41:31.974497Z" modified="2023-05-06T07:40:35.761506Z" visited="2023-05-06T06:41:31.974498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-06T07:40:35.761504Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T07:40:35.393145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/digital-forencsics" added="2023-05-06T13:53:38.454877Z" modified="2023-05-07T15:39:49.842713Z" visited="2023-05-06T13:53:38.454878Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T15:39:49.842712Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/DIGITAL_FORENSIC.pptx" added="2023-05-06T14:18:03.370777Z" modified="2023-05-06T14:18:03.370780Z" visited="2023-05-06T14:18:03.370778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-06T14:18:03.370779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/MOD_2.pptx" added="2023-05-06T14:18:08.815917Z" modified="2023-05-06T14:18:08.815920Z" visited="2023-05-06T14:18:08.815918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-06T14:18:08.815919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/DIGITAL_FORENSIC_SYLLABUS.docx" added="2023-05-06T14:18:13.544384Z" modified="2023-05-06T14:18:13.544387Z" visited="2023-05-06T14:18:13.544385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-06T14:18:13.544386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/iXaoIOIz1oHojjxeApnzAKyWf3tIkchFOeDk1xQqySo=.docx" added="2023-05-06T14:18:17.663196Z" modified="2023-05-06T14:18:17.663200Z" visited="2023-05-06T14:18:17.663196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-06T14:18:17.663198Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/digital-forencsics/DIGITAL_FORENSIC.pptx" added="2023-05-06T14:19:12.734915Z" modified="2023-05-08T03:42:25.917250Z" visited="2023-05-06T14:19:12.734916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-08T03:42:25.917248Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-VI/digital-forencsics/MOD_2.pptx" added="2023-05-06T14:19:30.969367Z" modified="2023-05-07T15:39:51.170522Z" visited="2023-05-06T14:19:30.969367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.pptx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T15:39:51.170520Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/IMG_20230504_000229.jpg" added="2023-05-06T14:57:33.930377Z" modified="2023-05-06T14:57:33.939344Z" visited="2023-05-06T14:57:33.930377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-06T14:57:33.939342Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-06%2020-33-38.png" added="2023-05-06T15:03:38.807131Z" modified="2023-05-06T15:03:50.674791Z" visited="2023-05-06T15:03:38.807132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-06T15:03:38.807134Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-06T15:03:50.674790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Modern.Family.S04E04.720p.Bia2HD.mkv.crdownload" added="2023-05-06T16:00:14.979835Z" modified="2023-05-06T16:00:17.558415Z" visited="2023-05-06T16:00:14.979835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T16:00:17.558414Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Modern.Family.S04E04.720p.Bia2HD.mkv" added="2023-05-06T16:06:39.259223Z" modified="2023-05-06T16:06:51.385756Z" visited="2023-05-06T16:06:39.259224Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T16:06:50.744293Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-06T16:06:51.385754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Modern.Family.S04E05.720p.Bia2HD.mkv" added="2023-05-06T16:28:28.231780Z" modified="2023-05-06T16:28:48.998655Z" visited="2023-05-06T16:28:28.231781Z">
+    <title>Modern.Family.S04E05.720p.Bia2HD.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-06T16:28:48.254188Z" count="2"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-06T16:28:48.998653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2023-05-07T06:14:29.912386Z" modified="2023-05-07T12:48:47.170059Z" visited="2023-05-07T06:14:29.912387Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T12:48:47.170058Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp" added="2023-05-07T06:14:32.564980Z" modified="2023-05-07T06:14:32.564983Z" visited="2023-05-07T06:14:32.564981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T06:14:32.564982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/Sleeping.Beauty.2011.720p.English.Esubs.Moviesmod.NeT.mkv" added="2023-05-07T06:14:44.509765Z" modified="2023-05-07T06:27:13.941181Z" visited="2023-05-07T06:14:44.509766Z">
+    <title>Sleeping.Beauty.2011.720p.English.Esubs.Moviesmod.NeT.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T06:27:13.941180Z" count="4"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-07T06:14:55.927327Z" count="1"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2023-05-07T06:27:06.990300Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root" added="2023-05-07T12:49:02.156342Z" modified="2023-05-07T12:49:02.156345Z" visited="2023-05-07T12:49:02.156342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-07T12:49:02.156344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-07%2023-45-36.png" added="2023-05-07T18:15:36.538344Z" modified="2023-05-07T18:15:36.538348Z" visited="2023-05-07T18:15:36.538345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-07T18:15:36.538347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/tmp" added="2023-05-08T06:19:35.745326Z" modified="2023-05-08T06:21:06.476994Z" visited="2023-05-08T06:19:35.745326Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-08T06:21:06.476992Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/ShareTechMono.zip" added="2023-05-09T04:26:09.198904Z" modified="2023-05-09T04:26:09.198908Z" visited="2023-05-09T04:26:09.198905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-05-09T04:26:09.198906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/ISOs/kali-linux-2023.1a-installer-purple-amd64.iso" added="2023-05-09T04:44:18.510206Z" modified="2023-05-09T04:45:00.599656Z" visited="2023-05-09T04:44:18.510206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBoxVM" exec="&apos;VirtualBoxVM %u&apos;" modified="2023-05-09T04:45:00.599654Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/kali-linux-2023.1a-installer-purple-amd64.iso" added="2023-05-09T04:48:04.653113Z" modified="2023-05-09T04:48:04.653118Z" visited="2023-05-09T04:48:04.653114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBoxVM" exec="&apos;VirtualBoxVM %u&apos;" modified="2023-05-09T04:48:04.653116Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Desktop/Linux%20Kernel%20Development,%203rd%20Edition.pdf" added="2023-05-09T16:36:43.492704Z" modified="2023-05-09T16:36:58.995051Z" visited="2023-05-09T16:36:43.492705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2023-05-09T16:36:43.743587Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-09T16:36:58.471168Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-05-09T16:36:58.995050Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/ISOs/archlinux-2023.04.01-x86_64.iso" added="2023-05-10T03:22:32.842324Z" modified="2023-05-10T03:22:32.842327Z" visited="2023-05-10T03:22:32.842324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-05-10T03:22:32.842326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/VritualMachines/Ubuntu/Ubuntu.vbox" added="2023-05-10T03:41:56.775929Z" modified="2023-05-10T03:41:56.775934Z" visited="2023-05-10T03:41:56.775930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-05-10T03:41:56.775931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/VritualMachines/ubunut_old/ubuntu_old_kernel_3.0/ubuntu_old_kernel_3.0.vbox" added="2023-05-10T03:43:53.852638Z" modified="2023-05-10T03:43:53.852644Z" visited="2023-05-10T03:43:53.852639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2023-05-10T03:43:53.852641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/peakpx.jpg" added="2023-05-10T15:30:45.652219Z" modified="2023-05-10T15:30:45.652222Z" visited="2023-05-10T15:30:45.652219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-05-10T15:30:45.652221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/mary-lamb.jpg" added="2023-05-10T15:50:42.597026Z" modified="2023-05-10T15:50:42.607806Z" visited="2023-05-10T15:50:42.597026Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-10T15:50:42.607805Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures" added="2023-05-10T16:51:47.696177Z" modified="2023-05-10T16:51:47.696181Z" visited="2023-05-10T16:51:47.696178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-10T16:51:47.696179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/peakpx%20(1).jpg" added="2023-05-10T16:52:14.128897Z" modified="2023-05-10T16:52:14.577670Z" visited="2023-05-10T16:52:14.128898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-10T16:52:14.128899Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-05-10T16:52:14.577669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/wallpaper.jpg" added="2023-05-10T16:52:52.267460Z" modified="2023-05-10T16:52:52.267462Z" visited="2023-05-10T16:52:52.267460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2023-05-10T16:52:52.267461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/The.Curious.Case.Of.Benjamin.Button.2008.1080p.10Bit.HEVC.BluRay.Hindi.VCD.English.ESubs.-.MoviesMod.Net.In.mkv.crdownload" added="2023-05-11T12:19:14.988753Z" modified="2023-05-12T08:46:40.166942Z" visited="2023-05-11T12:19:14.988753Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T08:46:40.166940Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Immersion%20Time%20Table%20(W.e.f.-%2001st%20June%20,%202023).pdf" added="2023-05-12T10:37:57.102554Z" modified="2023-05-12T10:37:57.102579Z" visited="2023-05-12T10:37:57.102555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="WhatsApp" exec="&apos;WhatsApp %u&apos;" modified="2023-05-12T10:37:57.102556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV" added="2023-05-12T12:01:00.764872Z" modified="2023-05-12T12:01:00.764876Z" visited="2023-05-12T12:01:00.764872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:01:00.764874Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-i" added="2023-05-12T12:01:02.623075Z" modified="2023-05-12T12:02:09.922525Z" visited="2023-05-12T12:01:02.623076Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:02:09.922523Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-i/cybersecurity" added="2023-05-12T12:01:05.238837Z" modified="2023-05-12T12:02:11.436338Z" visited="2023-05-12T12:01:05.238837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:02:11.436336Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-i/cybersecurity/ITNS%20Lab%20Document%202021-22.docx" added="2023-05-12T12:01:08.019287Z" modified="2023-05-12T12:01:08.019293Z" visited="2023-05-12T12:01:08.019289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/wps-office.docx"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:01:08.019290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-ii" added="2023-05-12T12:01:17.101348Z" modified="2023-05-12T12:01:17.101353Z" visited="2023-05-12T12:01:17.101349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:01:17.101351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/GLA/SEM-IV/term-ii/csf" added="2023-05-12T12:01:18.714777Z" modified="2023-05-12T12:01:18.714780Z" visited="2023-05-12T12:01:18.714777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-12T12:01:18.714778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2019-35-05.png" added="2023-05-12T14:05:05.071646Z" modified="2023-05-12T14:06:00.794924Z" visited="2023-05-12T14:05:05.071646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T14:05:05.071648Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T14:06:00.794923Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2019-35-13.png" added="2023-05-12T14:05:13.462096Z" modified="2023-05-12T14:06:00.794938Z" visited="2023-05-12T14:05:13.462096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T14:05:13.462098Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T14:06:00.794937Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2019-35-28.png" added="2023-05-12T14:05:28.800680Z" modified="2023-05-12T14:06:00.794932Z" visited="2023-05-12T14:05:28.800680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T14:05:28.800682Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T14:06:00.794931Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2021-02-40.png" added="2023-05-12T15:32:40.561779Z" modified="2023-05-12T15:33:29.520507Z" visited="2023-05-12T15:32:40.561780Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T15:32:40.561781Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T15:33:29.520506Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2021-03-08.png" added="2023-05-12T15:33:08.355662Z" modified="2023-05-12T15:33:29.520511Z" visited="2023-05-12T15:33:08.355663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T15:33:08.355664Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T15:33:29.520510Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Pictures/Screenshots/Screenshot%20from%202023-05-12%2021-03-12.png" added="2023-05-12T15:33:12.367336Z" modified="2023-05-12T15:33:29.520502Z" visited="2023-05-12T15:33:12.367337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-05-12T15:33:12.367339Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2023-05-12T15:33:29.520500Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/Close.2022.FRENCH.1080p.BluRay.x264.AAC5.1-YTS.SoftSub.Sermovie.mp4" added="2023-05-13T05:46:11.602044Z" modified="2023-05-13T14:18:58.017443Z" visited="2023-05-13T05:46:11.602044Z">
+    <title>Close.2022.FRENCH.1080p.BluRay.x264.AAC5.1-YTS.SoftSub.Sermovie.mp4</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T14:18:58.017441Z" count="5"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-13T14:18:24.112013Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/lucky/398a5d3d-f766-4ede-8861-12672fe18d0f/Vids" added="2023-05-13T05:46:47.193067Z" modified="2023-05-13T14:17:41.384412Z" visited="2023-05-13T05:46:47.193067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T14:17:41.384411Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/superpass_export.csv" added="2023-05-13T09:27:11.680404Z" modified="2023-05-13T09:27:11.680410Z" visited="2023-05-13T09:27:11.680405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-05-13T09:27:11.680407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/superpass_export(1).csv" added="2023-05-13T09:28:47.917974Z" modified="2023-05-13T09:28:47.917979Z" visited="2023-05-13T09:28:47.917975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-05-13T09:28:47.917977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/superpass_export(2).csv" added="2023-05-13T09:55:57.024805Z" modified="2023-05-13T09:55:57.024811Z" visited="2023-05-13T09:55:57.024805Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-05-13T09:55:57.024808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/superpass_export(3).csv" added="2023-05-13T12:35:05.271232Z" modified="2023-05-13T12:35:05.271240Z" visited="2023-05-13T12:35:05.271233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-05-13T12:35:05.271238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/superpass_export(4).csv" added="2023-05-13T12:35:48.867468Z" modified="2023-05-13T12:35:48.867476Z" visited="2023-05-13T12:35:48.867472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2023-05-13T12:35:48.867473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://realme_RMX3686_DALZR8LZEQXGYLAQ/Internal%20shared%20storage" added="2023-05-13T14:29:39.967754Z" modified="2023-05-13T14:29:39.967756Z" visited="2023-05-13T14:29:39.967754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T14:29:39.967755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/We.Need.to.Talk.About.Kevin.2011.720p.BluRay.x264.900MB-%5BMkvking.com%5D.mkv" added="2023-05-13T15:19:07.118763Z" modified="2023-05-13T15:27:58.543531Z" visited="2023-05-13T15:19:07.118779Z">
+    <title>We.Need.to.Talk.About.Kevin.2011.720p.BluRay.x264.900MB-[Mkvking.com].mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T15:27:58.543530Z" count="6"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-13T15:19:27.679541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lucky/Downloads/We.Need.to.Talk.About.Kevin.2011.720p.BluRay.x264.900MB-%5BMkvking.com%5D.mkv.crdownload" added="2023-05-13T15:28:13.353043Z" modified="2023-05-13T15:28:42.219494Z" visited="2023-05-13T15:28:13.353044Z">
+    <title>We.Need.to.Talk.About.Kevin.2011.720p.BluRay.x264.900MB-[Mkvking.com].mkv.crdownload</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-partial-download"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-13T15:28:41.556392Z" count="2"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-05-13T15:28:42.219492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/Catppuccin-Gnome-Theme-master.zip" added="2023-05-14T05:01:20.959179Z" modified="2023-05-14T05:01:20.959183Z" visited="2023-05-14T05:01:20.959179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Tweaks" exec="&apos;gnome-tweaks %u&apos;" modified="2023-05-14T05:01:20.959181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

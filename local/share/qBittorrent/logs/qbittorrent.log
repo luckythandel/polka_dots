@@ -1,0 +1,75 @@
+(N) 2023-05-13T11:12:19 - qBittorrent v4.5.2 started
+(N) 2023-05-13T11:12:19 - Using config directory: /home/lucky/.config/qBittorrent
+(N) 2023-05-13T11:12:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:4512,[::]:4512"
+(I) 2023-05-13T11:12:20 - Peer ID: "-qB4520-"
+(I) 2023-05-13T11:12:20 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-05-13T11:12:20 - Distributed Hash Table (DHT) support: ON
+(I) 2023-05-13T11:12:20 - Local Peer Discovery support: ON
+(I) 2023-05-13T11:12:20 - Peer Exchange (PeX) support: ON
+(I) 2023-05-13T11:12:20 - Anonymous mode: OFF
+(I) 2023-05-13T11:12:20 - Encryption support: ON
+(I) 2023-05-13T11:12:20 - UPnP/NAT-PMP support: ON
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "192.168.0.100". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "192.168.0.100". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "10.10.14.33". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "10.10.14.33". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "::1". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "::1". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "fe80::de3e:4d34:874:403e%wlan0". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "fe80::de3e:4d34:874:403e%wlan0". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "dead:beef:2::101f". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "dead:beef:2::101f". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "fe80::9e26:92f1:6b48:6922%tun0". Port: "TCP/4512"
+(I) 2023-05-13T11:12:20 - Successfully listening on IP. IP: "fe80::9e26:92f1:6b48:6922%tun0". Port: "UDP/4512"
+(I) 2023-05-13T11:12:20 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. external port: TCP/4512"
+(I) 2023-05-13T11:12:20 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. external port: UDP/4512"
+(W) 2023-05-13T11:12:20 - Couldn't load IP geolocation database. Reason: No such file or directory
+(I) 2023-05-13T11:12:22 - Detected external IP. IP: "103.200.85.100"
+(I) 2023-05-13T11:12:23 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon May 1 05:53:20 2023.
+(I) 2023-05-13T11:12:23 - Successfully updated IP geolocation database.
+(N) 2023-05-13T11:12:48 - Added new torrent. Torrent: "Close (2022) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole) [QxR]"
+(N) 2023-05-13T11:13:08 - Torrent paused. Torrent: "Close (2022) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole) [QxR]"
+(N) 2023-05-13T11:13:11 - Torrent resumed. Torrent: "Close (2022) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole) [QxR]"
+(W) 2023-05-13T11:14:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-05-13T11:14:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(I) 2023-05-13T12:21:05 - Detected external IP. IP: "103.200.85.136"
+(N) 2023-05-13T16:00:20 - Torrent download finished. Torrent: "Close (2022) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole) [QxR]"
+(N) 2023-05-13T16:32:43 - qBittorrent termination initiated
+(I) 2023-05-13T16:32:43 - UPnP/NAT-PMP support: OFF
+(N) 2023-05-13T16:32:48 - qBittorrent is now ready to exit
+(N) 2023-05-13T20:42:06 - qBittorrent v4.5.2 started
+(N) 2023-05-13T20:42:06 - Using config directory: /home/lucky/.config/qBittorrent
+(N) 2023-05-13T20:42:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:4512,[::]:4512"
+(I) 2023-05-13T20:42:06 - Peer ID: "-qB4520-"
+(I) 2023-05-13T20:42:06 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-05-13T20:42:06 - Distributed Hash Table (DHT) support: ON
+(I) 2023-05-13T20:42:06 - Local Peer Discovery support: ON
+(I) 2023-05-13T20:42:06 - Peer Exchange (PeX) support: ON
+(I) 2023-05-13T20:42:06 - Anonymous mode: OFF
+(I) 2023-05-13T20:42:06 - Encryption support: ON
+(I) 2023-05-13T20:42:06 - UPnP/NAT-PMP support: ON
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "192.168.0.100". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "192.168.0.100". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "10.10.14.33". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "10.10.14.33". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "::1". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "::1". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "fe80::de3e:4d34:874:403e%wlan0". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "fe80::de3e:4d34:874:403e%wlan0". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "dead:beef:2::101f". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "dead:beef:2::101f". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "fe80::9e26:92f1:6b48:6922%tun0". Port: "TCP/4512"
+(I) 2023-05-13T20:42:06 - Successfully listening on IP. IP: "fe80::9e26:92f1:6b48:6922%tun0". Port: "UDP/4512"
+(I) 2023-05-13T20:42:06 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. external port: TCP/4512"
+(I) 2023-05-13T20:42:06 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. external port: UDP/4512"
+(N) 2023-05-13T20:42:06 - Restored torrent. Torrent: "Close (2022) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole) [QxR]"
+(I) 2023-05-13T20:42:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon May 1 05:53:20 2023.
+(I) 2023-05-13T20:42:07 - Detected external IP. IP: "103.200.85.172"
+(W) 2023-05-13T20:44:42 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-05-13T20:44:42 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-05-13T20:47:17 - qBittorrent termination initiated
+(I) 2023-05-13T20:47:17 - UPnP/NAT-PMP support: OFF

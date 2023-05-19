@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="whatsapp.desktop" score="870.0625" last-seen="1684048008"/>
+    <application id="org.gnome.Evince.desktop" score="1498.390625" last-seen="1683909505"/>
+    <application id="org.xfce.Parole.desktop" score="46.75" last-seen="1683991683"/>
+    <application id="org.gnome.FileRoller.desktop" score="1.25" last-seen="1683606410"/>
+    <application id="thunar.desktop" score="162.75" last-seen="1683995282"/>
+    <application id="kali-burpsuite.desktop" score="194" last-seen="1683989655"/>
+    <application id="google-chrome.desktop" score="21443.375" last-seen="1684048451"/>
+    <application id="org.xfce.mousepad.desktop" score="39.0625" last-seen="1683526866"/>
+    <application id="anydesk.desktop" score="0" last-seen="1683607007"/>
+    <application id="discord.desktop" score="202.75" last-seen="1683602976"/>
+    <application id="kali-ghidra.desktop" score="74.828125" last-seen="1683463358"/>
+    <application id="org.gnome.eog.desktop" score="0.65625" last-seen="1683737537"/>
+    <application id="com.gexperts.Tilix.desktop" score="5744.59375" last-seen="1684048451"/>
+    <application id="nm-connection-editor.desktop" score="2.5" last-seen="1683876793"/>
+    <application id="org.gnome.Nautilus.desktop" score="5.65625" last-seen="1683483454"/>
+    <application id="org.gnome.tweaks.desktop" score="24" last-seen="1684043268"/>
+    <application id="gnome-user-accounts-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" score="11.515625" last-seen="1684040900"/>
+    <application id="ulauncher.desktop" score="4" last-seen="1684042780"/>
+    <application id="virtualbox.desktop" score="13.140625" last-seen="1683909445"/>
+    <application id="wps-office-wpp.desktop" score="0" last-seen="1683433143"/>
+    <application id="org.gnome.Totem.desktop" score="595.21875" last-seen="1683995247"/>
+    <application id="vlc.desktop" score="4242.234375" last-seen="1683991699"/>
+    <application id="wps-office-prometheus.desktop" score="2052.46875" last-seen="1683981355"/>
+    <application id="blueman-manager.desktop" score="0.546875" last-seen="1683552124"/>
+    <application id="org.wireshark.Wireshark.desktop" score="37.5" last-seen="1684038498"/>
+    <application id="lightdm-gtk-greeter-settings.desktop" score="11" last-seen="1684040093"/>
+    <application id="org.gnome.Settings.desktop" score="20.984375" last-seen="1684047912"/>
+    <application id="firefox-esr.desktop" score="268" last-seen="1684043128"/>
+  </context>
+</application-state>

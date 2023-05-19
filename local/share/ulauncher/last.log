@@ -1,0 +1,96 @@
+2023-05-14 11:03:25,817 | INFO | ulauncher: main() | Ulauncher version 5.15.2
+2023-05-14 11:03:25,817 | INFO | ulauncher: main() | Extension API version 2.0.0
+2023-05-14 11:03:25,817 | INFO | ulauncher: main() | GTK+ 3.24.37
+2023-05-14 11:03:25,817 | INFO | ulauncher: main() | Is Wayland: False
+2023-05-14 11:03:25,817 | INFO | ulauncher: main() | Wayland compatibility: off
+2023-05-14 11:03:25,828 | DEBUG | ulauncher.ui.windows.Builder: __init__() | consider using a pythonic name instead of design name 'input-box'
+2023-05-14 11:03:25,830 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','destroy', 'on_destroy'
+2023-05-14 11:03:25,831 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_in_event', 'on_focus_in_event'
+2023-05-14 11:03:25,831 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'ulauncher_window','focus_out_event', 'on_focus_out_event'
+2023-05-14 11:03:25,831 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'input','key_press_event', 'on_input_key_press_event'
+2023-05-14 11:03:25,831 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_input_changed'
+2023-05-14 11:03:25,832 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_about_activate'
+2023-05-14 11:03:25,832 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_close_activate'
+2023-05-14 11:03:25,832 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_mnu_preferences_activate'
+2023-05-14 11:03:25,832 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_preferences_dialog_destroyed'
+2023-05-14 11:03:25,833 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:03:25,833 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:03:25,842 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:03:25,844 | INFO | ulauncher.api.server.ExtensionServer: _start_thread() | Starting WS server on port 5054
+2023-05-14 11:03:25,844 | INFO | ulauncher.search.apps.app_watcher: start() | Started scanning desktop dirs
+2023-05-14 11:03:25,850 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kcm_trash.desktop": constructor returned NULL
+2023-05-14 11:03:25,851 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/offsec-training.desktop": constructor returned NULL
+2023-05-14 11:03:25,851 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/evolution-calendar.desktop": constructor returned NULL
+2023-05-14 11:03:25,852 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-bugs.desktop": constructor returned NULL
+2023-05-14 11:03:25,859 | INFO | ulauncher.ui.windows.UlauncherWindow: bind_show_app_hotkey() | Trying to bind app hotkey: <Primary>space
+2023-05-14 11:03:25,862 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-docs.desktop": constructor returned NULL
+2023-05-14 11:03:25,866 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/exploit-database.desktop": constructor returned NULL
+2023-05-14 11:03:25,868 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kdeconnect_open.desktop": constructor returned NULL
+2023-05-14 11:03:25,869 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/org.kde.kded5.desktop": constructor returned NULL
+2023-05-14 11:03:25,874 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-tools.desktop": constructor returned NULL
+2023-05-14 11:03:25,880 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-xplico.desktop": constructor returned NULL
+2023-05-14 11:03:25,881 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-nethunter.desktop": constructor returned NULL
+2023-05-14 11:03:25,884 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/vulnhub.desktop": constructor returned NULL
+2023-05-14 11:03:25,886 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-forums.desktop": constructor returned NULL
+2023-05-14 11:03:25,889 | INFO | ulauncher.utils.desktop.reader: read_desktop_file() | Could not read "/usr/share/applications/kali-www.desktop": constructor returned NULL
+2023-05-14 11:03:25,905 | INFO | ulauncher.utils.desktop.reader: find_apps_cached() | Found 179 apps in the system
+2023-05-14 11:03:25,906 | INFO | ulauncher.search.apps.app_watcher: start() | Scanned desktop dirs in 0.06 seconds
+2023-05-14 11:03:25,910 | DEBUG | ulauncher.search.apps.app_watcher: start() | Start watching desktop files...
+2023-05-14 11:03:29,062 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:03:29,062 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:03:29,062 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:03:30,729 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-05-14 11:03:30,742 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-05-14 11:03:30,789 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-05-14 11:03:30,869 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-05-14 11:03:32,469 | DEBUG | ulauncher.ui.windows.UlauncherWindow: activate_preferences() | create new preferences_dialog
+2023-05-14 11:03:32,478 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_hotkey_set'
+2023-05-14 11:03:32,478 | DEBUG | ulauncher.ui.windows.Builder: log_unconnected_functions() | Not connected to builder 'on_scheme_callback'
+2023-05-14 11:03:32,520 | DEBUG | ulauncher.ui.windows.Builder: __init__() | consider using a pythonic name instead of design name 'hotkey-dialog-vbox1'
+2023-05-14 11:03:32,520 | DEBUG | ulauncher.ui.windows.Builder: __init__() | consider using a pythonic name instead of design name 'new-hotkey-label'
+2023-05-14 11:03:32,522 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'hotkey_dialog','delete_event', 'on_delete_event'
+2023-05-14 11:03:32,523 | DEBUG | ulauncher.ui.windows.Builder: do_connect() | connect builder by name 'hotkey_input','key_press_event', 'on_hotkey_input_key_press_event'
+2023-05-14 11:03:32,852 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_get_all() | API call /get/all
+2023-05-14 11:03:35,851 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_theme_name() | Set theme-name to ubuntu
+2023-05-14 11:03:39,323 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_theme_name() | Set theme-name to dark
+2023-05-14 11:03:41,962 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_theme_name() | Set theme-name to light
+2023-05-14 11:03:42,796 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_autostart() | Set autostart-enabled to True
+2023-05-14 11:03:50,599 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_disable_desktop_filters() | Set disable-desktop-filters to True
+2023-05-14 11:03:52,511 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_disable_desktop_filters() | Set disable-desktop-filters to False
+2023-05-14 11:03:59,270 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_close() | Close preferences
+2023-05-14 11:04:01,972 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:04:01,972 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:04:01,973 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:09:19,887 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:09:19,887 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:09:19,888 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:09:21,513 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 9 results
+2023-05-14 11:09:22,365 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:09:30,376 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:09:30,376 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:09:30,376 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:09:31,853 | DEBUG | ulauncher.ui.windows.UlauncherWindow: activate_preferences() | show existing preferences_dialog
+2023-05-14 11:09:31,958 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_get_all() | API call /get/all
+2023-05-14 11:09:35,905 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_set_theme_name() | Set theme-name to dark
+2023-05-14 11:09:38,539 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_shortcut_get_all() | Handling /shortcut/get-all
+2023-05-14 11:09:40,428 | INFO | ulauncher.ui.windows.PreferencesUlauncherDialog: prefs_close() | Close preferences
+2023-05-14 11:09:40,855 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 11:09:40,855 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 11:09:40,855 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 11:09:42,269 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-05-14 11:09:42,459 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-05-14 11:09:42,510 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-05-14 11:09:42,616 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-05-14 11:09:42,936 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 2 results
+2023-05-14 11:09:43,181 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-05-14 11:09:43,204 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-05-14 12:32:53,316 | DEBUG | ulauncher.utils.display: get_screens() | Found 1 monitor(s)
+2023-05-14 12:32:53,317 | DEBUG | ulauncher.utils.display: get_screens() |   Monitor 0 - X: 0, Y: 0, W: 1920, H: 1080
+2023-05-14 12:32:53,318 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 0 results
+2023-05-14 12:32:54,887 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
+2023-05-14 12:32:55,072 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-05-14 12:32:55,124 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-05-14 12:32:55,214 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 3 results
+2023-05-14 12:32:56,221 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 4 results
+2023-05-14 12:32:56,370 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 5 results
+2023-05-14 12:32:56,507 | DEBUG | ulauncher.ui.windows.UlauncherWindow: show_results() | render 7 results
